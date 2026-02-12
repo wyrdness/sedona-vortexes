@@ -1,0 +1,596 @@
+{
+  "category": "SACRED_SITE",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/sedona-vortexes",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "sedona-vortexes",
+    "name": "Sedona Vortexes",
+    "aliases": [
+      {
+        "name": "Sedona Energy Vortices",
+        "language": "English",
+        "region": "Arizona, USA"
+      },
+      {
+        "name": "Red Rock Vortexes",
+        "language": "English",
+        "region": "Arizona, USA"
+      },
+      {
+        "name": "Sedona Power Spots",
+        "language": "English",
+        "region": "Arizona, USA"
+      }
+    ],
+    "category": "SACRED_SITE",
+    "subcategory": "Energy Phenomenon",
+    "tags": [
+      "vortex",
+      "energy-field",
+      "sacred-site",
+      "new-age",
+      "healing",
+      "spiritual",
+      "arizona",
+      "native-american",
+      "tourism",
+      "geology"
+    ],
+    "status": "active",
+    "description": {
+      "summary": "Specific locations in Sedona, Arizona claimed to be centers of concentrated spiritual or electromagnetic energy. Four main sites (Bell Rock, Cathedral Rock, Airport Mesa, Boynton Canyon) attract visitors seeking healing, meditation, and spiritual experiences.",
+      "full": "The Sedona Vortexes are specific geographic locations in Sedona, Arizona, believed by New Age practitioners to contain swirling centers of energy conducive to healing, meditation, and spiritual experiences. The four primary vortex sites—Bell Rock, Cathedral Rock, Airport Mesa, and Boynton Canyon—have become international destinations for spiritual seekers, despite the absence of scientific evidence for the claimed energy fields. These locations coincide with geologically unique red rock formations and areas considered sacred by Native American peoples, particularly the Yavapai-Apache Nation. The phenomenon represents a complex intersection of Indigenous spirituality, New Age beliefs, geological wonder, and modern tourism."
+    },
+    "etymology": {
+      "origin": "The term 'vortex' in this context was popularized in the 1980s by New Age practitioners, particularly psychic Page Bryant who claimed to channel information about Sedona's energy centers.",
+      "meaning": "A whirling center of energy believed to facilitate spiritual connection, healing, and heightened awareness",
+      "first_use": "1980s"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "SACRED_SITE",
+      "type": "Energy Phenomenon",
+      "subtype": "Vortex Sites",
+      "variant": "New Age / Indigenous Sacred Sites"
+    },
+    "related_phenomena": [
+      {
+        "id": "ley-lines",
+        "name": "Ley Lines",
+        "relationship": "similar",
+        "description": "Alleged alignments of ancient sites and energy"
+      },
+      {
+        "id": "mount-shasta",
+        "name": "Mount Shasta",
+        "relationship": "similar",
+        "description": "Another claimed spiritual power center in California"
+      },
+      {
+        "id": "sedona-vortexes",
+        "name": "Sedona Vortexes",
+        "relationship": "similar",
+        "description": "Energy vortex sites in Arizona"
+      },
+      {
+        "id": "glastonbury-tor",
+        "name": "Glastonbury Tor",
+        "relationship": "similar",
+        "description": "British sacred site with claimed energy properties"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "vortex_types": [
+      {
+        "type": "Upflow (Electric/Masculine)",
+        "description": "Energy flows upward, believed to enhance spiritual connection and inspiration",
+        "effect": "Energizing, inspiring, enhancing masculine energy",
+        "sites": ["Bell Rock", "Airport Mesa"]
+      },
+      {
+        "type": "Inflow (Magnetic/Feminine)",
+        "description": "Energy flows inward, believed to facilitate introspection and receptivity",
+        "effect": "Calming, introspective, enhancing feminine energy",
+        "sites": ["Cathedral Rock"]
+      },
+      {
+        "type": "Combination/Balanced",
+        "description": "Both upflow and inflow energies present",
+        "effect": "Balance of masculine and feminine energies",
+        "sites": ["Boynton Canyon"]
+      }
+    ],
+    "reported_experiences": [
+      {
+        "experience": "Tingling sensations",
+        "description": "Physical sensations of tingling or vibration in body",
+        "frequency": "common"
+      },
+      {
+        "experience": "Emotional release",
+        "description": "Sudden crying, laughter, or emotional catharsis",
+        "frequency": "common"
+      },
+      {
+        "experience": "Heightened awareness",
+        "description": "Enhanced perception or consciousness",
+        "frequency": "common"
+      },
+      {
+        "experience": "Healing experiences",
+        "description": "Claims of physical or emotional healing",
+        "frequency": "occasional"
+      },
+      {
+        "experience": "Visions or insights",
+        "description": "Spiritual visions or sudden clarity",
+        "frequency": "occasional"
+      },
+      {
+        "experience": "Time distortion",
+        "description": "Altered perception of time passage",
+        "frequency": "rare"
+      },
+      {
+        "experience": "Twisted trees",
+        "description": "Observation of spiral-growth juniper trees claimed as vortex evidence",
+        "frequency": "common"
+      }
+    ],
+    "physical_indicators": {
+      "claimed": [
+        "Twisted juniper trees growing in spiral patterns",
+        "Compass anomalies",
+        "Electromagnetic field variations",
+        "Increased ionic activity"
+      ],
+      "scientific_status": "Not verified by controlled studies"
+    }
+  },
+
+  "locations": {
+    "primary_vortexes": [
+      {
+        "name": "Bell Rock",
+        "type": "Upflow (Electric/Masculine)",
+        "location": {
+          "description": "Bell Rock, Village of Oak Creek",
+          "country": "United States",
+          "region": "Arizona",
+          "locality": "Sedona",
+          "coordinates": {
+            "latitude": 34.8027,
+            "longitude": -111.7624,
+            "elevation": 1545
+          }
+        },
+        "accessibility": "Easy to moderate",
+        "features": [
+          "Bell-shaped red rock formation",
+          "Most accessible vortex site",
+          "Popular for sunrise meditation"
+        ],
+        "claimed_properties": "Energizing, enhancing spiritual connection, amplifying personal energy"
+      },
+      {
+        "name": "Cathedral Rock",
+        "type": "Inflow (Magnetic/Feminine)",
+        "location": {
+          "description": "Red Rock Crossing near Oak Creek",
+          "country": "United States",
+          "region": "Arizona",
+          "locality": "Sedona",
+          "coordinates": {
+            "latitude": 34.8261,
+            "longitude": -111.7892,
+            "elevation": 1372
+          }
+        },
+        "accessibility": "Moderate (requires creek crossing)",
+        "features": [
+          "Iconic spired rock formation",
+          "Red Rock Crossing photo location",
+          "Oak Creek reflections"
+        ],
+        "claimed_properties": "Introspection, emotional healing, receptivity, feminine energy"
+      },
+      {
+        "name": "Airport Mesa",
+        "type": "Upflow (Electric/Masculine)",
+        "location": {
+          "description": "Airport Mesa Overlook",
+          "country": "United States",
+          "region": "Arizona",
+          "locality": "Sedona",
+          "coordinates": {
+            "latitude": 34.8602,
+            "longitude": -111.7859,
+            "elevation": 1448
+          }
+        },
+        "accessibility": "Easy",
+        "features": [
+          "360-degree views of Sedona",
+          "Sunset viewing location",
+          "Accessible paved path"
+        ],
+        "claimed_properties": "Clarity, vision, removing negative energy, enhancing psychic abilities"
+      },
+      {
+        "name": "Boynton Canyon",
+        "type": "Combination (Balanced)",
+        "location": {
+          "description": "Boynton Canyon Trailhead",
+          "country": "United States",
+          "region": "Arizona",
+          "locality": "Sedona",
+          "coordinates": {
+            "latitude": 34.8994,
+            "longitude": -111.8515,
+            "elevation": 1487
+          }
+        },
+        "accessibility": "Moderate",
+        "features": [
+          "Box canyon with red rock walls",
+          "Sacred Yavapai-Apache site",
+          "Multiple vortex points in canyon"
+        ],
+        "claimed_properties": "Balance, transformation, spiritual awakening, connection to both masculine and feminine energies"
+      }
+    ],
+    "secondary_sites": [
+      {
+        "name": "Schnebly Hill",
+        "type": "Disputed",
+        "description": "Sometimes listed as minor vortex site"
+      },
+      {
+        "name": "Red Rock Crossing",
+        "type": "Related to Cathedral Rock",
+        "description": "Access point for Cathedral Rock vortex"
+      },
+      {
+        "name": "Chapel of the Holy Cross",
+        "type": "Spiritual site",
+        "description": "Built in 1956, considered spiritually significant but not traditional vortex"
+      }
+    ]
+  },
+
+  "history": {
+    "origins": {
+      "indigenous_history": "The Sedona area has been considered sacred by Yavapai-Apache peoples for centuries. The land contains multiple archaeological sites and is central to tribal creation stories and spiritual practices. These traditions predate the New Age vortex concept by millennia.",
+      "new_age_emergence": "The modern 'vortex' phenomenon emerged in the 1980s when psychic Page Bryant published claims about Sedona's energy centers. This coincided with broader New Age movement interest in power spots and earth energies.",
+      "tourism_development": "From the 1980s onward, Sedona transformed from a small artist community into an international spiritual tourism destination, with the vortex sites becoming primary attractions."
+    },
+    "timeline": [
+      {
+        "date": "Pre-colonial",
+        "event": "Yavapai-Apache sacred sites",
+        "significance": "Indigenous peoples consider Sedona area sacred for ceremonies and spiritual practices",
+        "source": "Oral traditions, archaeological evidence"
+      },
+      {
+        "date": "1902",
+        "event": "Sedona settlement founded",
+        "significance": "Town named after Sedona Schnebly, begins as farming community",
+        "source": "Historical records"
+      },
+      {
+        "date": "1950s-1970s",
+        "event": "Artist community growth",
+        "significance": "Sedona becomes known for natural beauty and artist colony",
+        "source": "Local history"
+      },
+      {
+        "date": "1980s",
+        "event": "Page Bryant's vortex claims",
+        "significance": "Psychic Page Bryant publishes information about Sedona vortexes, popularizing the concept",
+        "source": "Bryant's publications"
+      },
+      {
+        "date": "1987",
+        "event": "Harmonic Convergence",
+        "significance": "Global New Age event brings thousands to Sedona vortex sites",
+        "source": "News reports"
+      },
+      {
+        "date": "1990s",
+        "event": "Tourism boom",
+        "significance": "Sedona becomes major spiritual tourism destination; metaphysical shops proliferate",
+        "source": "Economic data"
+      },
+      {
+        "date": "2000s-present",
+        "event": "Mainstream recognition",
+        "significance": "Vortex sites featured in mainstream travel media; managing environmental impact becomes priority",
+        "source": "Tourism data, environmental reports"
+      }
+    ],
+    "modern_era": "Today, the Sedona vortexes represent a multi-million dollar tourism industry. The sites receive millions of visitors annually, leading to concerns about environmental degradation, trail erosion, and impact on Native American sacred sites. The phenomenon bridges Indigenous spirituality, New Age beliefs, outdoor recreation, and economic interests."
+  },
+
+  "visitor_statistics": {
+    "annual_visitors": {
+      "estimate": 3000000,
+      "year": 2025,
+      "notes": "Estimated total visitors to Sedona; majority visit at least one vortex site"
+    },
+    "economic_impact": {
+      "spiritual_tourism": "Estimated $1+ billion annually",
+      "related_businesses": "Over 50 metaphysical shops, numerous tour operators, healers, and psychics"
+    },
+    "peak_seasons": [
+      "Spring (March-May)",
+      "Fall (September-November)"
+    ]
+  },
+
+  "evidence": {
+    "claimed_physical": [
+      {
+        "type": "Twisted trees",
+        "description": "Juniper trees growing in spiral patterns near vortex sites",
+        "scientific_explanation": "Natural response to wind, sun exposure, and growth patterns; not unique to Sedona",
+        "status": "Natural phenomenon, not evidence of energy fields"
+      },
+      {
+        "type": "Compass variations",
+        "description": "Claims of compass needles behaving erratically",
+        "scientific_explanation": "Local magnetic mineral deposits (iron-rich rocks); normal geological phenomenon",
+        "status": "Geological, not paranormal"
+      }
+    ],
+    "anecdotal": [
+      {
+        "type": "Personal experiences",
+        "description": "Thousands of visitor testimonials of spiritual experiences, healing, insights",
+        "status": "Subjective, not scientifically measurable"
+      }
+    ],
+    "scientific_studies": [
+      {
+        "claim": "Electromagnetic field variations",
+        "finding": "No unusual electromagnetic fields detected beyond normal geological variations",
+        "source": "Multiple informal surveys"
+      },
+      {
+        "claim": "Measurable energy vortexes",
+        "finding": "No peer-reviewed scientific studies have confirmed the existence of energy vortexes",
+        "source": "Scientific literature review"
+      }
+    ]
+  },
+
+  "theories": {
+    "new_age": [
+      {
+        "name": "Earth Energy Vortexes",
+        "description": "Specific locations where earth's energy spirals upward or inward, facilitating spiritual connection",
+        "proponents": ["Page Bryant", "Various New Age practitioners"],
+        "evidence_cited": ["Personal spiritual experiences", "Dowsing results", "Psychic channeling"]
+      },
+      {
+        "name": "Ley Line Intersection",
+        "description": "Vortex sites located at intersections of earth's energy grid lines",
+        "proponents": ["Ley line researchers"],
+        "evidence_cited": ["Alignment with other sacred sites", "Geometric patterns"]
+      }
+    ],
+    "geological": [
+      {
+        "name": "Unique Geology",
+        "description": "Sedona's distinctive red rocks (iron oxide-rich sandstone) create visually stunning landscape that inspires awe",
+        "proponents": ["Geologists"],
+        "evidence_cited": ["Well-documented geological formations", "Permian and Carboniferous layers", "Iron-rich sediments"]
+      },
+      {
+        "name": "Magnetic Minerals",
+        "description": "Iron-rich rocks create minor local magnetic variations, but nothing unusual or paranormal",
+        "proponents": ["Geologists", "Geophysicists"],
+        "evidence_cited": ["Magnetometer readings", "Geological surveys"]
+      }
+    ],
+    "psychological": [
+      {
+        "name": "Environmental Psychology",
+        "description": "Natural beauty, dramatic landscapes, and expectation create powerful psychological and emotional responses",
+        "proponents": ["Psychologists", "Environmental scientists"],
+        "evidence_cited": ["Nature exposure studies", "Placebo effect research", "Expectation effects"]
+      },
+      {
+        "name": "Suggestion and Belief",
+        "description": "Power of suggestion combined with desire for spiritual experience creates subjective experiences",
+        "proponents": ["Skeptical researchers"],
+        "evidence_cited": ["Placebo effect", "Confirmation bias", "Cultural priming"]
+      }
+    ],
+    "cultural": [
+      {
+        "name": "Appropriation of Sacred Sites",
+        "description": "New Age vortex concept overlaid on genuinely sacred Native American sites, creating commercialized version of Indigenous spirituality",
+        "proponents": ["Cultural critics", "Indigenous scholars"],
+        "evidence_cited": ["Historical documentation of sacred sites", "Pattern of New Age appropriation"]
+      }
+    ]
+  },
+
+  "cultural": {
+    "indigenous": {
+      "tribes": [
+        "Yavapai-Apache Nation",
+        "Hopi",
+        "Navajo (Diné)",
+        "Zuni"
+      ],
+      "significance": "Sedona and surrounding red rocks have been sacred to Indigenous peoples for millennia. These are places of ceremony, prayer, and cultural significance. The specific locations now called 'vortexes' often coincide with traditional sacred sites.",
+      "sensitivity_note": "CRITICAL: The New Age vortex phenomenon represents cultural appropriation of Indigenous sacred sites. Visitors must respect that these are not just tourist attractions but places of ongoing spiritual significance to Native peoples. Many Indigenous people find the commercialization of their sacred sites deeply offensive.",
+      "respect_guidelines": [
+        "Recognize Indigenous peoples as original stewards and spiritual authorities of these lands",
+        "Do not remove rocks, plants, or artifacts",
+        "Stay on designated trails to prevent sacred site damage",
+        "Do not conduct ceremonies or rituals without permission from tribal authorities",
+        "Support Indigenous-led conservation and education efforts",
+        "Learn actual history rather than New Age reinterpretations"
+      ]
+    },
+    "new_age": {
+      "practices": [
+        "Meditation at vortex sites",
+        "Crystal placement and charging",
+        "Chakra balancing",
+        "Yoga and tai chi",
+        "Vision quests and spiritual retreats",
+        "Energy healing sessions",
+        "Sound healing with singing bowls"
+      ],
+      "businesses": "Over 50 metaphysical shops, numerous tour guides, healers, psychics, and spiritual practitioners base their businesses on vortex tourism",
+      "events": [
+        "Harmonic Convergence gatherings",
+        "Solstice celebrations",
+        "Full moon ceremonies",
+        "Spiritual retreats and workshops"
+      ]
+    },
+    "popular_culture": {
+      "literature": [
+        "\"The Sedona Vortex Guidebook\" by Richard Dannelley",
+        "\"Vortex: The Quantum Gateway\" by Page Bryant (out of print)",
+        "Numerous metaphysical and New Age guides"
+      ],
+      "media": [
+        "Featured in travel documentaries",
+        "Social media phenomena (Instagram, TikTok)",
+        "Wellness and spiritual tourism articles"
+      ],
+      "tourism": "Major economic driver for Sedona; vortex sites are primary attraction alongside scenic beauty"
+    }
+  },
+
+  "environmental_concerns": {
+    "issues": [
+      {
+        "concern": "Trail erosion",
+        "description": "Heavy foot traffic degrading trails and creating unauthorized paths",
+        "status": "Ongoing management challenge"
+      },
+      {
+        "concern": "Sacred site damage",
+        "description": "Visitors removing rocks, leaving offerings, creating unauthorized structures",
+        "status": "Serious concern for Indigenous communities"
+      },
+      {
+        "concern": "Vegetation damage",
+        "description": "Off-trail hiking damaging desert plants and cryptobiotic soil",
+        "status": "Active restoration efforts"
+      },
+      {
+        "concern": "Overcrowding",
+        "description": "Popular sites experiencing dangerous overcrowding, especially at sunrise/sunset",
+        "status": "Parking restrictions implemented"
+      }
+    ],
+    "management": [
+      "Red Rock Pass fee system to fund trail maintenance",
+      "Trail restoration projects",
+      "Education programs about Leave No Trace principles",
+      "Parking restrictions at popular sites",
+      "Volunteer programs for trail maintenance"
+    ]
+  },
+
+  "visiting": {
+    "practical_information": {
+      "access": "All primary vortex sites are on public lands (Coconino National Forest). Red Rock Pass required for parking ($5 day pass, $15 week pass).",
+      "best_times": [
+        "Early morning for fewer crowds and cooler temperatures",
+        "Weekdays less crowded than weekends",
+        "Fall and spring for pleasant weather"
+      ],
+      "preparation": [
+        "Bring water (desert environment)",
+        "Wear sun protection",
+        "Sturdy hiking shoes recommended",
+        "Be prepared for elevation (4,000-5,000 feet)",
+        "Check weather (summer monsoons, winter snow possible)"
+      ],
+      "safety": [
+        "Stay on marked trails",
+        "Watch for rattlesnakes (especially warm months)",
+        "Be cautious on slickrock when wet",
+        "Bring phone but expect limited cell service in canyons"
+      ]
+    },
+    "etiquette": [
+      "Respect Indigenous sacred sites",
+      "Leave No Trace—pack out all trash",
+      "Do not move rocks or create cairns",
+      "Keep noise levels down",
+      "Do not monopolize popular photo spots",
+      "Respect private property boundaries (especially Boynton Canyon)",
+      "Stay on trails to prevent erosion"
+    ]
+  },
+
+  "skeptical_perspective": {
+    "scientific_consensus": "No scientific evidence supports the existence of energy vortexes. Controlled studies have found no measurable electromagnetic anomalies, energy fields, or other physical phenomena that would support vortex claims.",
+    "explanations": [
+      "Natural beauty creates powerful emotional and psychological responses",
+      "Expectation and suggestion effects",
+      "Placebo-like responses from belief",
+      "Geological features (iron-rich rocks) create minor magnetic variations within normal ranges",
+      "Twisted trees result from natural environmental factors, not energy fields",
+      "Commercial interests perpetuate vortex mythology"
+    ],
+    "balanced_view": "While vortex energy claims lack scientific support, the sites offer genuine value: stunning natural beauty, opportunities for meditation and reflection, outdoor recreation, and connection to nature. Personal spiritual experiences, while subjective, can be meaningful regardless of their underlying cause."
+  },
+
+  "sources": [
+    {
+      "id": "dannelley-2009",
+      "type": "book",
+      "title": "Sedona: Beyond the Vortex",
+      "authors": ["Richard Dannelley"],
+      "publication": "Light Technology Publishing",
+      "date": "2009",
+      "isbn": "978-1891824944"
+    },
+    {
+      "id": "bryant-1991",
+      "type": "book",
+      "title": "Sedona Vortex Guidebook",
+      "authors": ["Richard Dannelley"],
+      "publication": "Meta Adventures",
+      "date": "1991"
+    },
+    {
+      "id": "usfs-coconino",
+      "type": "website",
+      "title": "Coconino National Forest - Red Rock Country",
+      "url": "https://www.fs.usda.gov/coconino",
+      "accessed": "2026-01-14"
+    }
+  ]
+}
