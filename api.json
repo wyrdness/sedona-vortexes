@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
+    "last_updated": "2026-05-08",
     "repository": "https://github.com/wyrdness/sedona-vortexes",
     "maintainers": [
       {
@@ -16,72 +16,167 @@
       "content": "CC-BY-4.0"
     }
   },
+
   "phenomenon": {
     "id": "sedona-vortexes",
     "name": "Sedona Vortexes",
-    "aliases": [],
-    "category": "SACRED_SITE",
-    "subcategory": "Combination (Balanced)",
-    "tags": [
-      "folklore",
-      "mythology"
+    "aliases": [
+      { "name": "Sedona Vortices", "language": "English", "meaning": "Alternative plural; both 'vortexes' and 'vortices' are used" },
+      { "name": "Energy vortexes", "region": "Sedona, Arizona", "meaning": "Colloquial New Age term" }
     ],
-    "status": "documented",
+    "category": "LOCATION",
+    "subcategory": "New Age energy sites / claimed sacred geography",
+    "tags": [
+      "sedona",
+      "arizona",
+      "new-age",
+      "spiritual",
+      "energy",
+      "vortex",
+      "healing",
+      "meditation",
+      "native-american",
+      "tourism",
+      "psychic-phenomena",
+      "red-rock"
+    ],
+    "status": "active",
     "description": {
-      "summary": "The Sedona Vortexes are specific geographic locations in Sedona, Arizona, believed by New Age practitioners to contain swirling centers of energy conducive to healing, meditation, and spiritual experiences.",
-      "full": "The Sedona Vortexes are specific geographic locations in Sedona, Arizona, believed by New Age practitioners to contain swirling centers of energy conducive to healing, meditation, and spiritual experiences. The four primary vortex sites—**Bell Rock**, **Cathedral Rock**, **Airport Mesa**, and **Boynton Canyon**—have become international destinations for spiritual seekers, drawing approximately 3 million visitors annually to this small Arizona town. These locations coincide with geologically unique red rock formations and areas considered sacred by Native American peoples, particularly the Yavapai-Apache Nation. The modern \\\"vortex\\\" phenomenon emerged in the 1980s when psychic Page Bryant popularized claims about Sedona's energy centers, transforming the area from a quiet artist community into a major spiritual tourism destination."
+      "summary": "The Sedona Vortexes are specific geographic locations in Sedona, Arizona, believed by New Age practitioners to be swirling centers of earth energy conducive to healing, meditation, and spiritual transformation, drawing approximately 3 million visitors annually.",
+      "full": "The Sedona Vortexes are a cluster of sites in and around Sedona, Arizona, that New Age practitioners believe to be centers of concentrated earth energy — swirling vortices of electromagnetic or spiritual force that can amplify meditation, accelerate healing, and facilitate personal transformation. The four most publicized vortex sites are Airport Mesa, Cathedral Rock, Bell Rock, and Boynton Canyon. Some practitioners identify seven or more vortex points in the region. The phenomenon is entirely modern in its New Age framing: in 1980, psychic Page Bryant publicized claims that a spiritual being named Albion told her about the vortexes, an account circulated through an audio recording called 'The Earth Changes Survival Handbook.' This transformed Sedona from a small artist community into a major destination for spiritual tourism. The Yavapai and Apache peoples, whose ancestral lands include the Sedona area, hold traditions of the red rock landscape as sacred territory used for healing ceremonies and vision quests; their traditions predate and are distinct from the New Age vortex framework. Mainstream science does not accept claims of measurable energy vortexes at these sites. The sites' appeal is understood by researchers primarily through the psychological effects of striking geology, the expectation of spiritual experience, and the social context of New Age community."
     },
     "etymology": {
-      "origin": "Unknown",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
+      "origin": "New Age spiritual tradition; 'vortex' borrowed from physics to describe a claimed swirling center of earth energy.",
+      "meaning": "A vortex in this context refers to a place where earth energy is believed to concentrate and spiral, either upward (electric/masculine) or downward/inward (magnetic/feminine).",
+      "first_use": "Applied to Sedona sites by psychic Page Bryant in approximately 1980."
     }
   },
+
   "classification": {
     "taxonomy": {
-      "category": "SACRED_SITE",
-      "type": "Combination (Balanced)",
-      "subtype": "Unknown",
-      "variant": "Unknown"
+      "category": "LOCATION",
+      "type": "Claimed sacred / energy site",
+      "subtype": "New Age spiritual destination",
+      "variant": "American Southwest"
     },
-    "related_phenomena": []
+    "related_phenomena": [
+      { "id": "ley-lines", "name": "Ley Lines", "relationship": "related", "description": "Claimed alignments of sacred sites along lines of earth energy; Sedona vortexes are sometimes situated within ley line frameworks" },
+      { "id": "sacred-sites", "name": "Sacred Sites", "relationship": "related", "description": "The Yavapai and Apache peoples' pre-existing sacred use of the Sedona landscape predates and is distinct from the New Age vortex framing" },
+      { "id": "stonehenge", "name": "Stonehenge", "relationship": "similar", "description": "Another location where claimed earth energies attract spiritual pilgrims; similarly situated at the intersection of indigenous sacred tradition and modern New Age interpretation" }
+    ]
   },
+
   "characteristics": {
     "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
+      "features": [
+        { "feature": "Red sandstone geology", "description": "The vortex sites coincide with Sedona's distinctive iron-red Schnebly Hill sandstone formations, formed approximately 300 million years ago", "frequency": "always" },
+        { "feature": "Twisted juniper trees", "description": "Juniper trees near vortex sites often show twisted trunks; this is cited by New Age practitioners as evidence of the swirling energy, though botanists attribute it to normal growth responses to soil, wind, and sunlight", "frequency": "common" },
+        { "feature": "Elevated positions", "description": "Several primary vortex sites (Airport Mesa, Bell Rock) are at elevated positions with panoramic views, contributing to the subjective experience of the location", "frequency": "common" }
+      ],
+      "morphology": "Physical locations within the red rock landscape of Sedona. The geological setting — dramatic sandstone buttes and canyons in a high desert plateau — creates visually and atmospherically distinctive environments regardless of any claimed energy properties."
     },
-    "abilities": [],
+    "abilities": [
+      { "ability": "Healing", "description": "Practitioners report accelerated physical and emotional healing at vortex sites", "frequency": "common", "evidence_level": "reported" },
+      { "ability": "Meditation enhancement", "description": "Reports of deepened meditative states and spiritual experiences at vortex locations", "frequency": "common", "evidence_level": "reported" },
+      { "ability": "Personal transformation", "description": "Visitors report significant personal insights, emotional releases, and life changes following vortex experiences", "frequency": "common", "evidence_level": "reported" },
+      { "ability": "Energy sensing", "description": "Some practitioners claim to physically feel tingling, warmth, or a spinning sensation at vortex points", "frequency": "occasional", "evidence_level": "reported" }
+    ],
     "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
+      "activity_period": "diurnal",
+      "disposition": "passive",
+      "social_structure": "unknown",
+      "habitat_preference": ["red sandstone buttes", "canyon formations", "elevated viewpoints"],
+      "diet": "Not applicable",
+      "patterns": [
+        "Experiences reported by visitors year-round; no seasonal pattern documented",
+        "Sunrise and sunset visits are popular, partly for aesthetic reasons and partly from belief that energy is stronger at these times"
+      ]
     }
   },
+
   "distribution": {
     "range": {
-      "description": "Unknown",
-      "continents": [],
-      "countries": [],
-      "regions": []
+      "description": "Concentrated within approximately 10 miles of central Sedona, Arizona, United States.",
+      "continents": ["North America"],
+      "countries": ["United States"],
+      "regions": ["Sedona, Arizona", "Verde Valley", "Coconino and Yavapai Counties, Arizona"]
     },
-    "hotspots": [],
+    "hotspots": [
+      {
+        "name": "Airport Mesa",
+        "location": {
+          "description": "Airport Mesa, Sedona, Arizona — a mesa adjacent to Sedona Airport",
+          "country": "United States",
+          "region": "Arizona",
+          "coordinates": { "latitude": 34.853, "longitude": -111.791 }
+        },
+        "sighting_count": 0,
+        "peak_period": "1980s–present",
+        "notes": "Considered an electric (masculine) vortex by practitioners; popular for sunrise visits. 360-degree views of the red rock formations."
+      },
+      {
+        "name": "Cathedral Rock",
+        "location": {
+          "description": "Cathedral Rock, Red Rock Crossing, Sedona, Arizona",
+          "country": "United States",
+          "region": "Arizona",
+          "coordinates": { "latitude": 34.822, "longitude": -111.793 }
+        },
+        "sighting_count": 0,
+        "peak_period": "1980s–present",
+        "notes": "Considered a magnetic (feminine) vortex by practitioners; one of the most photographed sites in Arizona. Adjacent to Oak Creek."
+      },
+      {
+        "name": "Bell Rock",
+        "location": {
+          "description": "Bell Rock, Village of Oak Creek, south of Sedona, Arizona",
+          "country": "United States",
+          "region": "Arizona",
+          "coordinates": { "latitude": 34.800, "longitude": -111.769 }
+        },
+        "sighting_count": 0,
+        "peak_period": "1980s–present",
+        "notes": "Considered a combination (masculine/feminine balance) vortex by some practitioners; accessible for scrambling."
+      },
+      {
+        "name": "Boynton Canyon",
+        "location": {
+          "description": "Boynton Canyon, west of Sedona, Arizona",
+          "country": "United States",
+          "region": "Arizona",
+          "coordinates": { "latitude": 34.909, "longitude": -111.882 }
+        },
+        "sighting_count": 0,
+        "peak_period": "1980s–present",
+        "notes": "Considered a combination vortex; the canyon is within or adjacent to the Yavapai ancestral homeland. The Enchantment Resort is located here."
+      }
+    ],
     "temporal": {
       "first_recorded": {
-        "date": "Unknown",
+        "date": "1980-01-01",
         "circa": true,
-        "source": "Traditional folklore"
-      }
+        "source": "Page Bryant audio recording 'The Earth Changes Survival Handbook' (approximately 1980)"
+      },
+      "peak_activity_periods": [
+        { "period": "1980s–present", "description": "New Age spiritual tourism to Sedona grew rapidly following Page Bryant's 1980 claims and has continued to expand" }
+      ],
+      "seasonal_patterns": "Year-round attraction. Peak tourist seasons are spring (March–May) and autumn (September–November) when temperatures are most comfortable."
     }
   },
+
   "history": {
     "origins": {
-      "cultural_roots": "Unknown",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
+      "cultural_roots": "The Yavapai and Yavapai-Apache peoples have long traditions recognizing the Sedona red rock landscape as sacred territory used for healing ceremonies, vision quests, and important cultural gatherings — well before European settlement. Hopi oral traditions also connect to the area. The modern New Age 'vortex' concept was introduced in approximately 1980 by psychic Page Bryant.",
+      "earliest_accounts": "Yavapai and Apache sacred traditions predating European contact. The New Age vortex framework dates to Page Bryant's approximately 1980 audio recording in which she described receiving information from a spiritual being named Albion about energy centers at Sedona.",
+      "folklore_connections": "The New Age vortex concept draws on a broader tradition of claimed earth energies, ley lines, and sacred geography that gained popularity in the 1970s–1980s New Age movement. The Sedona vortexes are the most commercially developed example of this genre in the United States."
     },
-    "timeline": []
+    "timeline": [
+      { "date": "1980-01-01", "event": "Psychic Page Bryant publicizes claims of energy vortexes at Sedona in audio recording 'The Earth Changes Survival Handbook'", "significance": "Founding event of the modern Sedona vortex phenomenon", "source": "Visit Sedona, visitsedona.com" },
+      { "date": "1987-01-01", "event": "Harmonic Convergence (August 16–17, 1987) global spiritual event; Sedona is a major gathering site, bringing international attention to the vortexes", "significance": "Major early event cementing Sedona's reputation as a spiritual center", "source": "New Age documentation" }
+    ],
+    "modern_era": "Sedona draws approximately 3 million visitors annually. The vortex economy supports hundreds of businesses offering tours, crystal shops, spiritual readings, and healing retreats. The Yavapai-Apache Nation maintains its own relationship with the landscape and has engaged in ongoing discussions about cultural appropriation and the commercialization of their ancestral territory. Mainstream science has not found measurable anomalous electromagnetic or other physical properties at the vortex sites."
   },
+
   "sightings": {
     "statistics": {
       "total_documented": 0,
@@ -92,35 +187,112 @@
     "notable": [],
     "database_path": "./sightings/"
   },
+
   "evidence": {
     "physical": [],
     "photographic": [],
     "video": [],
     "audio": [],
-    "trace": []
+    "trace": [
+      {
+        "id": "sedona-evidence-juniper-twist",
+        "type": "botanical anomaly",
+        "name": "Twisted juniper trees",
+        "description": "Juniper trees near vortex sites show twisted trunk growth; cited by New Age practitioners as evidence of swirling energy, attributed by botanists to normal environmental growth factors.",
+        "status": "disputed",
+        "analysis": "Botanical explanation attributes trunk twisting to normal growth responses to differential sunlight, soil composition, and wind loading. No evidence of anomalous causation has been established.",
+        "source": "Botanical analysis; Visit Sedona visitor information"
+      }
+    ],
+    "documentary": []
   },
+
   "theories": {
-    "paranormal": [],
-    "scientific": [],
-    "skeptical": []
+    "paranormal": [
+      {
+        "name": "Earth energy vortex",
+        "description": "The vortex sites are centers of swirling electromagnetic or spiritual earth energy that can be sensed and used by humans for healing and transformation. Practitioners distinguish between electric (masculine, outward-flowing) and magnetic (feminine, inward-drawing) vortexes.",
+        "proponents": ["Page Bryant", "New Age practitioners and tour operators"],
+        "evidence_cited": ["Reported sensory experiences by visitors", "Twisted juniper trees", "Self-reported healing and transformative experiences"]
+      }
+    ],
+    "scientific": [
+      {
+        "name": "Psychological and environmental effect",
+        "description": "The experiences reported at vortex sites are explained by the combination of striking natural beauty, expectation effects (visitors come primed to have spiritual experiences), focused meditative attention, altitude and fresh air, and the social reinforcement of a community of seekers. The geology itself — colorful, dramatic, geologically ancient — creates an environment genuinely conducive to reflection.",
+        "proponents": ["Mainstream psychologists and geologists"],
+        "evidence_cited": ["Absence of measurable electromagnetic anomalies in scientific surveys", "Expectation and confirmation bias well-documented in psychological literature", "Similar reported effects at other visually dramatic natural sites without vortex claims"]
+      }
+    ],
+    "skeptical": [
+      {
+        "name": "Commercial construction of spiritual significance",
+        "description": "The vortex phenomenon was created and is sustained primarily as a tourism product. Page Bryant's 1980 claims provided the initial narrative framework; the tourism industry of Sedona has invested heavily in perpetuating and elaborating it because of its economic value.",
+        "proponents": ["Skeptical investigators", "Cultural economists of spiritual tourism"],
+        "evidence_cited": ["Rapid growth of vortex industry immediately following Bryant's claims", "No vortex claims predate 1980 despite centuries of human habitation", "Sedona's economy is largely dependent on vortex tourism"]
+      }
+    ]
   },
+
   "cultural": {
     "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
+      "traditions": [
+        "New Age earth energy and vortex tradition (from 1980)",
+        "Yavapai and Apache sacred site traditions (pre-contact)"
+      ],
+      "stories": [
+        "Page Bryant's account of receiving information about the vortexes from a spiritual being named Albion (approximately 1980)",
+        "Harmonic Convergence gathering at Sedona (August 1987)"
+      ],
+      "beliefs": "New Age practitioners understand the vortexes as access points to universal or earth energy that can facilitate personal healing and spiritual development. The experience is described as feeling tingling, spinning, or unusual warmth, and as catalyzing emotional processing, spiritual insight, and physical improvement."
+    },
+    "indigenous": {
+      "cultures": ["Yavapai-Apache Nation", "Hopi"],
+      "significance": "The Yavapai and Apache peoples have long recognized the Sedona red rock landscape as sacred and have used it for ceremonies, healing practices, and vision quests. This relationship to the land predates and is distinct from the New Age vortex framework.",
+      "sensitivity_note": "The New Age commercialization of Sedona's landscape has been a source of tension with the Yavapai-Apache Nation, whose ancestral territory includes these sites. The vortex framing overlays and sometimes appropriates Native sacred geography without adequate acknowledgment.",
+      "respect_guidelines": "The Yavapai-Apache Nation's relationship to the landscape should be acknowledged as primary and long-established. New Age interpretations should not be conflated with Native traditions. Visitors should be aware of and respectful toward Native cultural significance when accessing these sites."
     },
     "popular_culture": {
-      "literature": [],
-      "film_tv": [],
+      "literature": [
+        "Numerous New Age guidebooks to Sedona vortexes published since the 1980s"
+      ],
+      "film_tv": [
+        "Sedona and its vortexes have been featured in numerous travel, spiritual, and documentary programs"
+      ],
       "games": [],
-      "other": []
+      "other": [
+        "Sedona is a major spiritual tourism destination drawing approximately 3 million visitors annually",
+        "Hundreds of businesses offering vortex tours, spiritual readings, crystal healing, and related services"
+      ]
     }
   },
+
   "research": {
-    "researchers": [],
-    "organizations": [],
-    "ongoing_studies": "None documented"
+    "researchers": [
+      { "name": "Page Bryant", "affiliation": "Independent psychic", "contribution": "Introduced the vortex concept to Sedona in approximately 1980 through audio recordings and subsequent publications", "period": "1980s" }
+    ],
+    "organizations": [
+      { "name": "Yavapai-Apache Nation", "url": "https://yavapai-apache.org", "focus": "The primary Indigenous nation with ancestral connections to the Sedona landscape; their cultural relationship to the land predates and is distinct from New Age vortex claims" }
+    ],
+    "ongoing_studies": "No peer-reviewed scientific studies have found measurable physical anomalies at Sedona vortex sites. Academic work on the phenomenon focuses on New Age tourism, psychology of spiritual experience, and the relationship between commercial spiritual culture and Indigenous sacred sites."
   },
-  "sources": []
+
+  "sources": [
+    {
+      "id": "visitsedona-vortex",
+      "type": "website",
+      "title": "What Is A Vortex in Sedona",
+      "publication": "Visit Sedona",
+      "url": "https://visitsedona.com/spiritual-wellness/what-is-a-vortex/",
+      "accessed": "2026-05-08"
+    },
+    {
+      "id": "cronkite-asu-sedona",
+      "type": "article",
+      "title": "Sedona's vortex: Believe or not to believe",
+      "publication": "Humphrey Fellows at Cronkite School of Journalism and Mass Communication, ASU",
+      "url": "https://cronkitehhh.jmc.asu.edu/blog/2024/04/sedonas-vortex-believe-or-not-to-believe/",
+      "accessed": "2026-05-08"
+    }
+  ]
 }
